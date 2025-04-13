@@ -1,16 +1,16 @@
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
+  baseUrl: "https://diego-amundaray.vercel.app/",
+  title: "Diego Amundaray",
+  name: "Aego",
   ogImage: "/opengraph-image.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "I'm a versatile full stack developer building my own enterprise while freelancing. My expertise spans PERN/MERN stacks, Next.js, Python, and C++. I'm passionate about integrating AI technologies into practical solutions, delivering comprehensive systems that solve complex business problems while maintaining excellent user experiences.",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  twitter: "https://x.com/aego_o",
+  github: "https://github.com/Aegox",
+  instagram: "https://www.instagram.com/aego__o",
+  linkedin: "https://www.linkedin.com/in/diego-amundaray-743862210/",
+  email: "mailto:diegoamundaray2017@gmail.com",
 };
